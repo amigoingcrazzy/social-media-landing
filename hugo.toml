@@ -63,10 +63,6 @@ paginate     = 10
   # ! Change these !
   # Social icons
   [[params.social]]
-    name = "Instagram"
-    url  = "https://www.instagram.com/odyderek/"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:dody@cloudflare.com"
 
@@ -77,3 +73,7 @@ paginate     = 10
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/derek-o-420382234/"
+
+  [[params.social]]
+    name = "Instagram"
+    url  = "https://www.instagram.com/odyderek/"
