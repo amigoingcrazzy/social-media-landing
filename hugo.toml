@@ -75,5 +75,5 @@ paginate     = 10
     url  = "https://www.linkedin.com/in/derek-o-420382234/"
 
   [[params.social]]
-    name = "Instagram"
+    name = "instagram"
     url  = "https://www.instagram.com/odyderek/"
