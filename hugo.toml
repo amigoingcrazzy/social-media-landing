@@ -63,8 +63,8 @@ paginate     = 10
   # ! Change these !
   # Social icons
   [[params.social]]
-#    name = "twitter"
-#    url  = "https://bsky.davidpacold.dev"
+    name = "Instagram"
+    url  = "https://www.instagram.com/odyderek/"
 
   [[params.social]]
     name = "email"
