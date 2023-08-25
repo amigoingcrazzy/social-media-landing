@@ -6,7 +6,7 @@ theme        = "hello-friend-ng"
 paginate     = 10
 
 # Google Analytics - ! Change this to be your ID or remove ! 
-#  googleAnalytics = 'G-GHBQN6V1R2'
+  googleAnalytics = 'G-8VWWWDBW8Q'
 
 [params]
   dateform        = "Jan 2, 2006"
