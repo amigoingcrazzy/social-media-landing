@@ -77,3 +77,7 @@ paginate     = 10
   [[params.social]]
     name = "instagram"
     url  = "https://www.instagram.com/odyderek/"
+
+  [[params.social]]
+    name = "strava"
+    url  = "https://www.strava.com/athletes/44424344"
